@@ -1,4 +1,5 @@
-﻿modified 1
+﻿git checkout chapter-two
+modified 1
 // TODO: think of funny first line that editor will
 approve.
 add this line
