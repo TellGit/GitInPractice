@@ -1,4 +1,4 @@
-﻿git checkout chapter-two
+﻿Technique 14 Merging an existing branch into the current branch: git merge
 modified 1
 // TODO: think of funny first line that editor will
 approve.
